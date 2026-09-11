@@ -1,4 +1,4 @@
-**TailorDesk – Tailoring Studio Management Portal**
+**TailorDesk: Serverless Web Application on AWS**
 ---------------------------------------------------
 A serverless web application and administrative ledger designed for Lakshmi Devi Ladies Tailors & Boutique (Guntur, AP). It provides a responsive booking catalog for customers and a real-time order intake and worker productivity tracker for shop owners.
 
