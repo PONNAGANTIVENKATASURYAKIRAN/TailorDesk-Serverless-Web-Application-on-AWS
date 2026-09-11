@@ -18,10 +18,11 @@ A serverless web application and administrative ledger designed for Lakshmi Devi
 
 **System Architecture**
 ------------------------
+<img width="3563" height="4206" alt="AWS archi image" src="https://github.com/user-attachments/assets/54065369-ec8d-48f9-9dfd-7082c0ae65cd" />
 
 **Tech Stack**
 --------------
-**Frontend:** Vanilla HTML5, CSS3 (Mobile-first responsive design), JavaScript (ES6 Fetch API)
+**Frontend:** HTML5, CSS3
 
 **Hosting & CDN:** Amazon S3, AWS CloudFront
 
