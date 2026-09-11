@@ -36,7 +36,7 @@ A serverless web application and administrative ledger designed for Lakshmi Devi
 
 **Live Demo & Owner Access**
 ----------------------------
-* **Demo URL:** `https://bit.ly/Lakshmi-Devi-Ladies-Tailor`
+* **Demo URL:** `d34hvud16ku84i.cloudfront.net`
 * **Owner Dashboard:** Click **Owner** in the top navigation bar.
 * **Demo Username:** `suryakiran9391@gmail.com`
 * **Demo Passcode:** `Surya@9848`
