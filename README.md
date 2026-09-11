@@ -33,3 +33,10 @@ A serverless web application and administrative ledger designed for Lakshmi Devi
 **Database:** Amazon DynamoDB (On-Demand Capacity)
 
 **Security & Auth:** Email/PIN administrative authentication, IAM policy enforcement, HTTPS termination via CloudFront
+
+**Live Demo & Owner Access**
+----------------------------
+* **Demo URL:** `https://bit.ly/Lakshmi-Devi-Ladies-Tailor`
+* **Owner Dashboard:** Click **Owner** in the top navigation bar.
+* **Demo Username:** `suryakiran9391@gmail.com`
+* **Demo Passcode:** `Surya@9848`
