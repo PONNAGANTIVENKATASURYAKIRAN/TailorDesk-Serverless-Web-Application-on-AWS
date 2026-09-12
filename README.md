@@ -18,7 +18,8 @@ A serverless web application and administrative ledger designed for Lakshmi Devi
 
 **System Architecture**
 ------------------------
-<img width="3563" height="4206" alt="AWS archi image" src="https://github.com/user-attachments/assets/54065369-ec8d-48f9-9dfd-7082c0ae65cd" />
+<img width="3563" height="4206" alt="AWS archi image" src="https://github.com/user-attachments/assets/96c382c1-936d-42c0-a785-faacc18707b6" />
+
 
 **Tech Stack**
 --------------
